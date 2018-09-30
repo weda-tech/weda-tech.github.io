@@ -14,7 +14,7 @@ https://github.com/junegunn/vim-github-dashboard
 
 ![vim-github-dashboard 실행 화면](/files/vim-ghd-1.png)
 
-<iframe width="854" height="480" src="https://www.youtube.com/embed/pik3RACu788" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="769" height="432" src="https://www.youtube.com/embed/pik3RACu788" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Vim 상에서 [GitHub API](https://developer.github.com/v3/)를 이용해 dashboard 페이지를 보여주는 플러그인입니다. 왜 멀쩡한 브라우저를 놔두고 이런 짓을 한 것이냐 물으신다면 ... 그것 참 좋은 질문이네요.
 
