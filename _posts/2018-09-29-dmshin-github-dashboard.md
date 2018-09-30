@@ -14,6 +14,8 @@ https://github.com/junegunn/vim-github-dashboard
 
 ![vim-github-dashboard 실행 화면](/files/vim-ghd-1.png)
 
+<iframe width="854" height="480" src="https://www.youtube.com/embed/pik3RACu788" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 Vim 상에서 [GitHub API](https://developer.github.com/v3/)를 이용해 dashboard 페이지를 보여주는 플러그인입니다. 왜 멀쩡한 브라우저를 놔두고 이런 짓을 한 것이냐 물으신다면 ... 그것 참 좋은 질문이네요.
 
 Vimscript 만 가지고는 API 결과를 받아오는 것이 불가능하므로 [Ruby interface](https://github.com/vim/vim/blob/master/runtime/doc/if_ruby.txt)를 이용합니다만 (`:help ruby`) OS X 의 시스템 디폴트 Vim 에서 기본적으로 지원하기 때문에 사용하시는데 문제는 없을 겁니다.
